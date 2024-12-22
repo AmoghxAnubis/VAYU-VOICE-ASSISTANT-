@@ -98,3 +98,40 @@ ok bye
 ai search
 none
 ok bye
+video search bhi kar raha tha na
+play video
+ek iski video banaa de
+none
+minecraft ne command dena khol de
+youtube music ok bye
+who are you
+what is the time
+where do you live
+play video
+none
+play song
+open new tab
+none
+screenshot
+ok bye
+write an email
+none
+none
+maine picture add kar diya
+ok bye
+hidden email
+write an email
+none
+none
+hey google bhosdi ke ok bye
+usne agar cal khol liya yah query dikhao
+none
+madrachod band ho jao ok bye
+who are you why you
+where do you live
+play video
+play video
+play song
+screenshot
+none
+none
